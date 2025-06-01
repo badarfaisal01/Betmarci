@@ -1,0 +1,45 @@
+# Bertarci Online
+
+This project includes a **Node.js backend server** and a **frontend** powered by modern tools (e.g., Vite, React, Vue, etc.).  
+The frontend runs in development mode using `npm run dev`, and the backend starts with `node server.js`.
+
+---
+
+## 📦 Prerequisites
+
+- **Node.js** (v14+ recommended)
+- **npm** or **yarn** (package manager)
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+2️⃣ Install Dependencies
+Install frontend dependencies:
+
+
+cd frontend
+npm install
+Install backend dependencies:
+
+
+cd ../backend
+npm install
+🌐 Running the Project
+Start the Backend
+
+cd backend
+node server.js
+Start the Frontend
+In a separate terminal:
+
+
+cd frontend
+npm run dev
+The frontend will typically be available at: http://localhost:3000
+
+The backend will typically run at: http://localhost:5000 (or your chosen port)
