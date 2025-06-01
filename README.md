@@ -16,7 +16,7 @@ The frontend runs in development mode using `npm run dev`, and the backend start
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/badarfaisal01/Betmarci.git
 cd your-repo
 2️⃣ Install Dependencies
 Install frontend dependencies:
