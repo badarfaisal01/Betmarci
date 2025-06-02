@@ -17,7 +17,7 @@ The frontend runs in development mode using `npm run dev`, and the backend start
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/badarfaisal01/Betmarci.git
-cd your-repo
+cd MARTONPROJECT
 2️⃣ Install Dependencies
 Install frontend dependencies:
 
@@ -43,3 +43,6 @@ npm run dev
 The frontend will typically be available at: http://localhost:3000
 
 The backend will typically run at: http://localhost:5000 (or your chosen port)
+
+![image](https://github.com/user-attachments/assets/09e6108c-0fce-4188-8a8d-e9e48f64aac0)
+
