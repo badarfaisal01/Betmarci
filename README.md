@@ -44,5 +44,7 @@ The frontend will typically be available at: http://localhost:3000
 
 The backend will typically run at: http://localhost:5000 (or your chosen port)
 
-![Dashboard](image.png)
+![image](https://github.com/user-attachments/assets/1e8639ac-7e5d-437e-822b-e83b825a821b)
+
+
 
